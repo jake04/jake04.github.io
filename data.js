@@ -43,7 +43,7 @@ var APP_DATA = {
           "yaw": -1.1367580404382256,
           "pitch": -0.1975046463845409,
           "title": "VICON Motion Capture System",
-          "text": "A 9-camera motion capture system for kinetic and kinematic analysis."
+          "text": "<a href= 'https://www.vicon.com/motion-capture/life-sciences' target='_blank'>A 9-camera motion capture system for kinetic and kinematic analysis."
         }
       ]
     },
@@ -84,7 +84,7 @@ var APP_DATA = {
           "yaw": 3.0199961090254783,
           "pitch": -0.24196266623168583,
           "title": "Targeted Box &amp; Blocks Test",
-          "text": "<a href='http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177965'>Normative data and comparison to standard tests for upper-limb analysis.</a>"
+          "text": "<a href='http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177965' target='_blank'>Normative data and comparison to standard tests for upper-limb analysis.</a>"
         },
         {
           "yaw": -2.21816455240198,
@@ -171,7 +171,7 @@ var APP_DATA = {
           "yaw": 0.36885921684064193,
           "pitch": 0.38452203990011036,
           "title": "DEKA Arm",
-          "text": "<a href='https://newatlas.com/darpa-deka-luke-prosthetic-arm-mobius/44267/'> The DEKA Arm is the first prosthetic arm to translate sEMG signals into motion.</a>"
+          "text": "<a href='https://newatlas.com/darpa-deka-luke-prosthetic-arm-mobius/44267/' target='_blank'> The DEKA Arm is the first prosthetic arm to translate sEMG signals into motion.</a>"
         }
       ]
     }
